@@ -27,11 +27,11 @@ Conhecimentos em programação orientada a objeto.
 ## Módulos:
                 
 0. Aquecimento e Regras do Jogo
-1. [Fundamentos](https://github.com/eduardodsr/Desenvolvedor-Front-End//tree/master/Fundamentos)
-2. [Angular](https://github.com/eduardodsr/Desenvolvedor-Front-End//tree/master/Angular)
-3. [React](https://github.com/eduardodsr/Desenvolvedor-Front-End//tree/master/React)
-4. [Vue](https://github.com/eduardodsr/Desenvolvedor-Front-End//tree/master/Vue)
-5. Desafio Final
+1. [Fundamentos](https://github.com/eduardodsr/Desenvolvedor-Python)
+2. [Phyton para a Análise de Dados](https://github.com/eduardodsr/Desenvolvedor-Python)
+3. [Python para Aplicações Web](https://github.com/eduardodsr/Desenvolvedor-Python)
+4. [Python Avançado ](https://github.com/eduardodsr/Desenvolvedor-Python)
+5. [Desafio Final]
 
 
 ## Objetivo Principal: 🎯
