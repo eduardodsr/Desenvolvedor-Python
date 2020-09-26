@@ -35,7 +35,7 @@ Conhecimentos em programação orientada a objeto.
 ## Módulos: :books:
                 
 0. [Aquecimento e Regras do Jogo](https://github.com/eduardodsr/Desenvolvedor-Python) :open_file_folder:
-1. [Fundamentos](https://github.com/eduardodsr/Desenvolvedor-Python) :open_file_folder: :open_file_folder:
+1. [Fundamentos](https://github.com/eduardodsr/Desenvolvedor-Python) :open_file_folder: 
 2. [Phyton para a Análise de Dados](https://github.com/eduardodsr/Desenvolvedor-Python) :file_folder:
 3. [Python para Aplicações Web](https://github.com/eduardodsr/Desenvolvedor-Python) :file_folder:
 4. [Python Avançado ](https://github.com/eduardodsr/Desenvolvedor-Python) :file_folder:
