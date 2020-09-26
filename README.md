@@ -48,7 +48,7 @@ Conhecimentos em programação orientada a objeto.
 
 
  <p align="center">
-  <img src=https://i.imgur.com/K3h3LkI.png?raw=true" alt="imagem" width="600px" />
+  <img src=https://i.imgur.com/fy8zAQ2.png?raw=true" alt="imagem" width="600px" />
  </p>
     
     
