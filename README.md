@@ -21,7 +21,7 @@ Conhecimentos em programação orientada a objeto.
 
 
 ### ToDo Checklist
-S- egue o controle das minhas atividas do Bootcamp Desenvolvedor Python
+* Segue o controle das minhas atividas do Bootcamp Desenvolvedor Python
 
  
 ## Módulos:
