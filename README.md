@@ -19,6 +19,8 @@ Conhecimentos em programação orientada a objeto.
  
 ``` link: ```  https://github.com/eduardodsr/Desenvolvedor-Python/
 
+``` link: ```  https://www.igti.com.br/custom/desenvolvedor-python/
+
 
 ### ToDo Checklist
 * Segue o controle das minhas atividas do Bootcamp Desenvolvedor Python
