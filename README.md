@@ -80,7 +80,6 @@ Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas.
 
 **Duração: 32 horas**
 
-Introdução ao Python, tipos de dados em Python, bibliotecas e operações básicas em Pyhon.
 
 ### MÓDULO 2 - Phyton para a Análise de Dados :blue_book:
 
