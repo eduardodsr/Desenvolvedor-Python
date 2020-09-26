@@ -26,12 +26,12 @@ Conhecimentos em programação orientada a objeto.
  
 ## Módulos:
                 
-0. Aquecimento e Regras do Jogo
+0. [Aquecimento e Regras do Jogo](https://github.com/eduardodsr/Desenvolvedor-Python)
 1. [Fundamentos](https://github.com/eduardodsr/Desenvolvedor-Python)
 2. [Phyton para a Análise de Dados](https://github.com/eduardodsr/Desenvolvedor-Python)
 3. [Python para Aplicações Web](https://github.com/eduardodsr/Desenvolvedor-Python)
 4. [Python Avançado ](https://github.com/eduardodsr/Desenvolvedor-Python)
-5. [Desafio Final]
+5. [Desafio Final](https://github.com/eduardodsr/Desenvolvedor-Python)
 
 
 ## Objetivo Principal: 🎯
