@@ -43,7 +43,7 @@ Conhecimentos em programação orientada a objeto.
 
   
     
-## Cronograma: :calendar:
+## Cronograma: :calendar: :hourglass:
 
 - Data de início: 10/09/20
 
