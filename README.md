@@ -2,6 +2,21 @@
 
 :cloud: IGTI - Bootcamp Desenvolvedor Python.
 
+## Objetivo Principal: 🎯
+
+* O objetivo do Bootcamp é apresentar conceitos fundamentais e avançados da linguagem Python e sua aplicação nas áreas da análise de dados e programação Web;
+
+- Desenvolva aplicações em Python partindo do nível básico;
+
+- Aprenda como utilizar a linguagem em diferentes áreas como a análise de dados e computação Web;
+
+- Habilite-se para ser um(a) desenvolver(a) Python para atuação nas principais áreas de aplicação;
+
+
+ <p align="center">
+  <img src=https://i.imgur.com/fy8zAQ2.png?raw=true" alt="imagem" width="600px" />
+ </p>
+
 ## Objetivo Principal
 
 O objetivo do Bootcamp é apresentar conceitos fundamentais e avançados da linguagem Python e sua aplicação nas áreas da análise de dados e programação Web.
@@ -36,21 +51,7 @@ Conhecimentos em programação orientada a objeto.
 5. [Desafio Final](https://github.com/eduardodsr/Desenvolvedor-Python)
 
 
-## Objetivo Principal: 🎯
-
-* O objetivo do Bootcamp é apresentar conceitos fundamentais e avançados da linguagem Python e sua aplicação nas áreas da análise de dados e programação Web;
-
-- Desenvolva aplicações em Python partindo do nível básico;
-
-- Aprenda como utilizar a linguagem em diferentes áreas como a análise de dados e computação Web;
-
-- Habilite-se para ser um(a) desenvolver(a) Python para atuação nas principais áreas de aplicação;
-
-
- <p align="center">
-  <img src=https://i.imgur.com/fy8zAQ2.png?raw=true" alt="imagem" width="600px" />
- </p>
-    
+   
     
 ## Cronograma: :calendar:
 
