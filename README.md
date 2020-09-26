@@ -14,10 +14,10 @@
 
 - Habilite-se para ser um(a) desenvolver(a) Python para atuação nas principais áreas de aplicação;
 
-### Pré-requisitos
+### Pré-requisitos :warning:
 Conhecimentos em programação orientada a objeto.
 
-### Link
+### Link :link:
  
 ``` link: ```  https://github.com/eduardodsr/Desenvolvedor-Python/
 
@@ -28,14 +28,14 @@ Conhecimentos em programação orientada a objeto.
  </p>
 
 
-## Módulos:
+## Módulos: :books:
                 
-0. [Aquecimento e Regras do Jogo](https://github.com/eduardodsr/Desenvolvedor-Python)
-1. [Fundamentos](https://github.com/eduardodsr/Desenvolvedor-Python)
-2. [Phyton para a Análise de Dados](https://github.com/eduardodsr/Desenvolvedor-Python)
-3. [Python para Aplicações Web](https://github.com/eduardodsr/Desenvolvedor-Python)
-4. [Python Avançado ](https://github.com/eduardodsr/Desenvolvedor-Python)
-5. [Desafio Final](https://github.com/eduardodsr/Desenvolvedor-Python)
+0. [Aquecimento e Regras do Jogo](https://github.com/eduardodsr/Desenvolvedor-Python) :open_file_folder:
+1. [Fundamentos](https://github.com/eduardodsr/Desenvolvedor-Python) :open_file_folder: :open_file_folder:
+2. [Phyton para a Análise de Dados](https://github.com/eduardodsr/Desenvolvedor-Python) :file_folder:
+3. [Python para Aplicações Web](https://github.com/eduardodsr/Desenvolvedor-Python) :file_folder:
+4. [Python Avançado ](https://github.com/eduardodsr/Desenvolvedor-Python) :file_folder:
+5. [Desafio Final](https://github.com/eduardodsr/Desenvolvedor-Python) ::file_folder:
 
   
     
@@ -75,7 +75,7 @@ Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas.
 
 ### MÓDULO 2 - Phyton para a Análise de Dados :blue_book:
 
-Introdução à análise de dados, Pandas e Numpy para a análise de dados e introdução ao Scikit-learn.
+Introdução à análise de dados, Pandas e Numpy para a análise de dados e introdução ao Scikit-learn. :chart_with_upwards_trend: :bar_chart:
 
 * Introdução à análise de dados; :x:
 * Pandas e Numpy para a análise de dados; :x:
@@ -115,7 +115,7 @@ Algoritmos e frameworks de machine learning utilizando o Python.
 **Duração: 16 horas**
 
 
-### CONTATO:
+### CONTATO: :mailbox_with_no_mail:
 
 EDUARDO DA SILVA RODRIGUES
 eduardodsr@gmail.com
