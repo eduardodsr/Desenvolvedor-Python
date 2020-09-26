@@ -1,6 +1,6 @@
 # Desenvolvedor Python
 
-IGTI - Bootcamp Desenvolvedor Python.
+:cloud: IGTI - Bootcamp Desenvolvedor Python.
 
 ## Objetivo Principal
 
@@ -22,8 +22,8 @@ Conhecimentos em programação orientada a objeto.
 ``` link: ```  https://www.igti.com.br/custom/desenvolvedor-python/
 
 
-### ToDo Checklist
-* Segue o controle das minhas atividas do Bootcamp Desenvolvedor Python
+### ToDo Checklist [ [✔️] |  :x: ]
+* Segue o controle das minhas atividas do Bootcamp Desenvolvedor Python.
 
  
 ## Módulos:
