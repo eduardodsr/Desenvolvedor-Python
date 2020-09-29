@@ -72,7 +72,7 @@ Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas.
 
 * Introdução ao Python; [✔️]
 * Tipos de dados em Python; [✔️]
-* Bibliotecas e operações básicas em Pyhon. :x:
+* Bibliotecas e operações básicas em Pyhon. [✔️]
 
 **Duração: 32 horas**
 
