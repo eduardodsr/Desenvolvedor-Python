@@ -76,6 +76,7 @@ Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas.
 
 **Duração: 32 horas**
 
+``` link: ```  https://www.geeksforgeeks.org/python-data-types/
  <p align="center">
   <img src=https://github.com/eduardodsr/Desenvolvedor-Python/blob/master/python-data-structure.jpg?raw=true" alt="imagem" width="600px"/>                                       </p>
 
