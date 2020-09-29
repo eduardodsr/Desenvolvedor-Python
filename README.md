@@ -2,10 +2,18 @@
 
 :cloud: IGTI - Bootcamp Desenvolvedor Python. :cloud:
 
-[![](https://img.shields.io/badge/made_by-eduardodsr-orange)](https://github.com/eduardods/)
-![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/Desenvolvedor-Python/)
-![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/Desenvolvedor-Python/))
-![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/Desenvolvedor-Python/)
+[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
+![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/Desenvolvedor-Python)
+![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/Desenvolvedor-Python)
+![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/Desenvolvedor-Python)
+
+
+https://github.com/mmsansao/pythondev-igti/edit/master/README.md
+
+[![](https://img.shields.io/badge/made_by-msansao-orange)](https://www.linkedin.com/in/msansao/)
+![GitHub repo size](https://img.shields.io/github/repo-size/mmsansao/pythondev-igti)
+![GitHub top language](https://img.shields.io/github/languages/top/mmsansao/pythondev-igti)
+![GitHub language count](https://img.shields.io/github/languages/count/mmsansao/pythondev-igti)
 
  <p align="center">
   <img src=https://i.imgur.com/C6VelDS.png?raw=true" alt="imagem" width="300px" />                                                                            
