@@ -75,7 +75,7 @@ Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas.
 * Bibliotecas e operações básicas em Pyhon. [✔️]
 
  <p align="center">
-  <img src=https://media.geeksforgeeks.org/wp-content/uploads/20191023173512/Python-data-structure.jpg?raw=true" alt="imagem" width="800px"/>                                    </p>
+  <img src=https://github.com/eduardodsr/Desenvolvedor-Python/blob/master/python-data-structure.jpg?raw=true" alt="imagem" width="800px"/>                                    </p>
 
 **Duração: 32 horas**
 
