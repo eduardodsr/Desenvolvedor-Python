@@ -142,12 +142,14 @@ Algoritmos e frameworks de machine learning utilizando o Python.
 ### CONTATO: :mailbox_with_no_mail:
 
 ### 🐍 DESENVOLVEDOR PYTHON: 🐍
-EDUARDO DA SILVA RODRIGUES
-eduardodsr@gmail.com
+
+### :star: EDUARDO DA SILVA RODRIGUES :star:
+
+:point_right: eduardodsr@gmail.com :point_left: 
 
 
 ### The End
 
  <p align="left">
-  <img src=https://i.imgur.com/760Zrb2.gif?raw=true" alt="imagem" width="350px" />                                                                            
+  <img src=https://i.imgur.com/760Zrb2.gif?raw=true" alt="imagem" width="150px" />                                                                            
  </p>
