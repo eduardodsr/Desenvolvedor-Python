@@ -8,7 +8,7 @@
 ### :cloud: IGTI - Bootcamp Desenvolvedor Python. :cloud:
 
  <p align="left">
-  <img src=https://i.imgur.com/C6VelDS.png?raw=true" alt="imagem" width="250px" />                                                                            
+  <img src=https://i.imgur.com/C6VelDS.png?raw=true" alt="imagem" width="350px" />                                                                            
  </p>
 
 ## Objetivo Principal: 🎯
