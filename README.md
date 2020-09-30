@@ -136,7 +136,6 @@ Algoritmos e frameworks de machine learning utilizando o Python.
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
 <code><a href="https://flask.palletsprojects.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
 <code><a href="https://www.w3.org/html/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="https://www.w3.org/css/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg "></a></code> 
 <code><a href="https://github/eduardodsr/Desenvolvedor-Python" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code> 
 </div>
 
