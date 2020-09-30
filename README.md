@@ -15,15 +15,14 @@
 
 - O objetivo do Bootcamp é apresentar conceitos fundamentais e avançados da linguagem Python e sua aplicação nas áreas da análise de dados e programação Web;
 
-## Objetivos específicos:
-
 - Desenvolva aplicações em Python partindo do nível básico;
 
 - Aprenda como utilizar a linguagem em diferentes áreas como a análise de dados e computação Web;
 
-- Habilite-se para ser um(a) desenvolver(a) Python para atuação nas principais áreas de aplicação;
+- Habilitar para ser um Desenvolver Python para atuação nas principais áreas de aplicação;
 
 ### Pré-requisitos :warning:
+
 Conhecimentos em programação orientada a objeto.
 
 ### Link :link:
