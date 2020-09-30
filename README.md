@@ -1,4 +1,4 @@
-# Desenvolvedor Python
+# Desenvolvedor Python 🐍
 
 [![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/Desenvolvedor-Python)
@@ -71,7 +71,7 @@ Conhecimentos em programação orientada a objeto.
 **Duração: 4 horas**
 
 
-### MÓDULO 1 - Fundamentos :green_book:
+### 🐍 MÓDULO 1 - Fundamentos :green_book:
 
 Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas.
 
@@ -85,7 +85,7 @@ Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas.
  <p align="center">
   <img src=https://github.com/eduardodsr/Desenvolvedor-Python/blob/master/python-data-structure.jpg?raw=true" alt="imagem" width="600px"/>                                       </p>
 
-### MÓDULO 2 - Phyton para a Análise de Dados :blue_book:
+### 📊 MÓDULO 2 - Phyton para a Análise de Dados :blue_book:
 
 Introdução à análise de dados, Pandas e Numpy para a análise de dados e introdução ao Scikit-learn. :chart_with_upwards_trend: :bar_chart:
 
@@ -96,7 +96,7 @@ Introdução à análise de dados, Pandas e Numpy para a análise de dados e int
 **Duração: 32 horas**
 
 
-### MÓDULO 3 - Python para Aplicações Web :orange_book:
+### 🌐 MÓDULO 3 - Python para Aplicações Web :orange_book:
 
 Introdução ao Django 3 , introdução ao Flask e desenvolvimento de aplicações Web com Python.
 
@@ -107,7 +107,7 @@ Introdução ao Django 3 , introdução ao Flask e desenvolvimento de aplicaçõ
 **Duração: 32 horas**
 
 
-### MÓDULO 4 - Python Avançado :closed_book:
+### :boom: MÓDULO 4 - Python Avançado :closed_book:
 
 Algoritmos e frameworks de machine learning utilizando o Python.
 
