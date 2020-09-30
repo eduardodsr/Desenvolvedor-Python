@@ -118,8 +118,7 @@ Algoritmos e frameworks de machine learning utilizando o Python.
 **Duração: 32 horas**
 
 
-
-### DESAFIO FINAL :checkered_flag:
+### :fire: DESAFIO FINAL :checkered_flag:
 
 * Conclusão da aplicação final  :x:
 
