@@ -83,7 +83,8 @@ Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas.
  <p align="left">
   <img src=https://github.com/eduardodsr/Desenvolvedor-Python/blob/master/python-data-structure.jpg?raw=true" alt="imagem" width="800px"/>
  </p>
-``` link: ```  https://www.geeksforgeeks.org/python-data-types/                                                                                                                           
+
+``` link: ``` https://www.geeksforgeeks.org/python-data-types/                                                                                                                           
 
 ### 📊 MÓDULO 2 - Phyton para a Análise de Dados :blue_book:
 
