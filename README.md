@@ -86,7 +86,7 @@ Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas.
 
 ``` link: ``` https://www.geeksforgeeks.org/python-data-types/                                                                                                                           
 
-### 📊 MÓDULO 2 - Phyton para a Análise de Dados :blue_book:
+### 📊 MÓDULO 2 - Python para a Análise de Dados :blue_book:
 
 Introdução à análise de dados, Pandas e Numpy para a análise de dados e introdução ao Scikit-learn. :chart_with_upwards_trend: :bar_chart:
 
@@ -95,6 +95,10 @@ Introdução à análise de dados, Pandas e Numpy para a análise de dados e int
 * Introdução ao scikit-learn. :x:
 
 **Duração: 32 horas**
+
+<p align="left">
+  <img src=https://i.imgur.com/lp7hREI.jpg?raw=true" alt="imagem" width="600px"/>
+ </p>
 
 
 ### 🌐 MÓDULO 3 - Python para Aplicações Web :orange_book:
