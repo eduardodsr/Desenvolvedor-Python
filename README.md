@@ -90,7 +90,7 @@ Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas.
 
 Introdução à análise de dados, Pandas e Numpy para a análise de dados e introdução ao Scikit-learn. :chart_with_upwards_trend: :bar_chart:
 
-* Introdução à análise de dados; :x:
+* Introdução à análise de dados; [✔️]
 * Pandas e Numpy para a análise de dados; :x:
 * Introdução ao scikit-learn. :x:
 
