@@ -96,8 +96,8 @@ Introdução à análise de dados, Pandas e Numpy para a análise de dados e int
 
 **Duração: 32 horas**
 
-<p align="left">
-  <img src=https://i.imgur.com/lp7hREI.jpg?raw=true" alt="imagem" width="600px"/>
+<p align="center">
+  <img src=https://i.imgur.com/lp7hREI.jpg?raw=true" alt="imagem" width="800px"/>
  </p>
 
 
