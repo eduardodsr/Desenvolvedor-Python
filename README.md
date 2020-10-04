@@ -76,8 +76,10 @@ Conhecimentos em programação orientada a objeto.
 Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas.
 
 * Introdução ao Python; [✔️]
-* Tipos de dados em Python; [✔️]
-* Bibliotecas e operações básicas em Pyhon. [✔️]
+* Tipos de dados em Python (numeric['interger', 'float', 'complex number']; dictionary; boolean; set; sequence type ['strings', 'tuple, 'list']; [✔️]
+* Bibliotecas e operações básicas em Pyhon; [✔️]
+* Decições; Estrutura de Repetição; Funções em Python; [✔️]
+* Trabalhando com objetos; Classes em Python; [✔️]
 
 **Duração: 32 horas**
 
