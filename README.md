@@ -109,9 +109,9 @@ Introdução à análise de dados, Pandas e Numpy para a análise de dados e int
 
 Introdução ao Django 3 , introdução ao Flask e desenvolvimento de aplicações Web com Python.
 
-*  Introdução ao Django 3; :x:
-*  Introdução ao Flask; :x:
-*  Desenvolvimento de aplicações Web com Python. :x:
+*  Introdução ao Django 3; [✔️]
+*  Introdução ao Flask; [✔️]
+*  Desenvolvimento de aplicações Web com Python. [✔️]
 
 **Duração: 32 horas**
 
@@ -120,17 +120,17 @@ Introdução ao Django 3 , introdução ao Flask e desenvolvimento de aplicaçõ
 
 Algoritmos e frameworks de machine learning utilizando o Python.
 
-* Algoritmos e frameworks de machine learning utilizando o Python; :x:
-* Introdução ao pygame; :x:
-* Concorrência e paralelismo com Python; :x:
-* Programação reativa com python. :x:
+* Algoritmos e frameworks de machine learning utilizando o Python; [✔️]
+* Introdução ao pygame; [✔️]
+* Concorrência e paralelismo com Python; [✔️]
+* Programação reativa com python. [✔️]
 
 **Duração: 32 horas**
 
 
 ### :fire: DESAFIO FINAL :checkered_flag:
 
-* Conclusão da aplicação final  :x:
+* Conclusão da aplicação final  [✔️]
 
 **Duração: 16 horas**
 
